@@ -1,0 +1,13 @@
+{
+  "name": "qr-code-reader",
+  "version": "1.0.0",
+  "description": "QR code reader example",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "qrcode": "^1.4.4",
+    "body-parser": "^1.19.0"
+  },
+  "author": "0tsu0i0ihajime",
+  "license": "MIT"
+}
